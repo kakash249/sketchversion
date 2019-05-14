@@ -1,0 +1,113 @@
+{
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
+"build" : 76490,
+"version" : 118,
+"fonts" : [
+"HelveticaNeue-Bold",
+"AlJazeera-Bold",
+"AlJazeera-Regular",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
+"appVersion" : "54.1",
+"build" : 76490,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 118,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.76490"
+],
+"appVersion" : "54.1",
+"pagesAndArtboards" : {
+"D825D82E-ABB4-439C-832C-24D06B152445" : {
+"name" : "Page 1",
+"artboards" : {
+
+}
+},
+"9CD07F21-6241-4A03-AC70-B5F8BABC448D" : {
+"name" : "Symbols",
+"artboards" : {
+"DC761A30-B06C-459C-872F-9581818A42AB" : {
+"name" : "elements\/card\/video\/ar"
+},
+"064BF8D4-4E06-4920-9737-68CF21489ECF" : {
+"name" : "elements\/card\/coverage\/ar"
+},
+"8AA9DB40-BBB8-4746-998F-B18DF8581E0B" : {
+"name" : "elements\/breaking-bar"
+},
+"030DE893-C2F9-49F6-B2AE-91EB3F7ED0EB" : {
+"name" : "elements\/card\/small\/opinion-with-label\/ar"
+},
+"B8253FD6-240B-4DD4-88F9-44D98A91129B" : {
+"name" : "elements\/card\/small\/default\/ar"
+},
+"AFC99253-7B57-4310-ADEC-6ECDCC4A5DB1" : {
+"name" : "elements\/card\/collection\/ar"
+},
+"B0ADF9EC-BDB9-4733-AEF5-3266553EC4A4" : {
+"name" : "elements\/card\/QID"
+},
+"1F570DA3-0F8E-4F74-8EEA-B12E17F9E7E6" : {
+"name" : "elements\/header\/nav\/menu\/ar"
+},
+"25F88DEF-97B4-4849-BD86-3232C2207237" : {
+"name" : "elements\/card\/large\/opinion-with-label\/ar"
+},
+"45ED265A-AFE3-48FE-A039-026ECCDCF562" : {
+"name" : "elements\/footer\/ar"
+},
+"0A0F855C-82DE-4060-BFDD-E33F6BC2B5B0" : {
+"name" : "elements\/card\/large\/default\/ar"
+},
+"730FB2BE-7050-4EC1-B89F-618953EB1E51" : {
+"name" : "elements\/card\/vote-result\/ar"
+},
+"5BC6B164-6240-4963-B25C-A15FF3F5A459" : {
+"name" : "elements\/card\/vote\/ar"
+},
+"3B31CFC9-EB01-4FAA-B8A7-14109DBFF3EB" : {
+"name" : "elements\/header\/nav\/menu-open\/ar"
+},
+"F9922F12-4416-4960-A605-3998EAD9D451" : {
+"name" : "elements\/card\/coverage-swipe\/ar"
+},
+"111D2264-3944-41B1-8647-F02B3EBF13AA" : {
+"name" : "elements\/card\/small\/with-label\/ar"
+},
+"34FDA2CD-7855-4BD4-AB1E-687E85F83169" : {
+"name" : "elements\/card\/large\/with-label\/ar"
+},
+"55A0D517-BD38-4E02-89CF-ACE24A532A7C" : {
+"name" : "elements\/header\/nav\/search\/ar"
+},
+"21E820B1-B6FD-4691-9282-7BE49B6F2EAA" : {
+"name" : "elements\/card\/top-story\/ar"
+},
+"8B540946-3C7B-4A5D-A6D4-01A284CA8E36" : {
+"name" : "elements\/header\/nav\/ar"
+},
+"29526931-13CF-44D3-AFA5-41FB86EA202F" : {
+"name" : "elements\/card\/collection-card\/ar"
+},
+"DA6131CF-E725-4BBF-BA43-FE4775CDDBB8" : {
+"name" : "elements\/card\/gallery\/ar"
+},
+"B03F700D-6FD4-4F85-91DF-C13D8BA70C3B" : {
+"name" : "elements\/card\/large\/default-with-summary"
+},
+"D5FF791E-D509-47B9-A32F-435A50D39B2A" : {
+"name" : "sticky-shadow"
+}
+}
+}
+}
+}
